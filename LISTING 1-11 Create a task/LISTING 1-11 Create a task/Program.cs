@@ -8,7 +8,7 @@ namespace LISTING_1_11_Create_a_task
     {
         public static void DoWork()
         {
-            Console.WriteLine("Work starting");
+            Console.WriteLine("Work starting, test");
             Thread.Sleep(2000);
             Console.WriteLine("Work finished");
         }
